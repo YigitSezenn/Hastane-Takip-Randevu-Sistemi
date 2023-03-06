@@ -1,0 +1,2 @@
+C:\Users\Yiğit Sezen\Desktop\Hastane Takip Randevu Sistemi\proje\Randevu Otomasyonu\obj\Debug\Randevu Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sezen\Desktop\Hastane Takip Randevu Sistemi\proje\Randevu Otomasyonu\obj\Debug\Randevu Otomasyonu.csproj.SuggestedBindingRedirects.cache
